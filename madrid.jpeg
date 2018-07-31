@@ -1,0 +1,918 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:fb="http://www.facebook.com/2008/fbml"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:schema="http://schema.org/">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="og:image" content="https://www.esmadrid.com/sites/default/files/styles/content_type_full/public/editorial/GranViaMadrid_1398771941838_1401274516.173.jpg?itok=GyB-gZH-" />
+<meta property="og:description" content="Do you only have one day to take in the city of Madrid? We&amp;amp;rsquo;ve got you covered! Our guide to spending 24 hours in the capital of Spain has plenty of suggestions for the morning, afternoon, evenin" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Drupal" />
+<link rel="shortcut icon" href="https://www.esmadrid.com/profiles/clusters_public/themes/clusters_public_static/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta property="og:title" content="24 hours in Madrid" />
+<meta property="og:url" content="https://www.esmadrid.com/en/24-hours-madrid" />
+<meta property="fb:app_id" content="1400410763505596" />
+<title>Madrid in a day</title>
+<link rel="title" href="/en/Madrid%20in%20a%20day" />
+<link rel="keywords" href="/en/Madrid%20in%20a%20day" />
+<meta name="description" content="You won&amp;rsquo;t get enough of Madrid in a single day, but if 24 hours is all you&amp;rsquo;ve got, we&amp;rsquo;ll help you make the most of it." />
+<meta name="robots" content="noodp" />
+<meta name="referrer" content="origin-when-cross-origin" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.esmadrid.com/en/24-hours-madrid" />
+<link rel="shortlink" href="https://www.esmadrid.com/en/node/65728" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Visita_Madrid" />
+<meta name="twitter:site:id" content="449646757" />
+<meta name="twitter:url" content="https://www.esmadrid.com/en/24-hours-madrid" />
+<meta name="twitter:title" content="24 hours in Madrid" />
+<meta name="twitter:description" content="You won&amp;rsquo;t get enough of Madrid in a single day, but if 24 hours is all you&amp;rsquo;ve got, we&amp;rsquo;ll help you make the most of it." />
+<meta name="twitter:image" content="https://www.esmadrid.com/sites/default/files/editorial/GranViaMadrid_1398771941838_1401274516.173.jpg" />
+<link rel="alternative" href="https://www.esmadrid.com/en/24-hours-madrid" hreflang="en" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<title>24 hours in Madrid | Turismo Madrid</title>
+  <link type="text/css" rel="stylesheet" href="https://www.esmadrid.com/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.esmadrid.com/sites/default/files/css/css_gkBxRm20FOL-lZ1TxSSV7-HdnMVAT_X_SFcPQTYz0Z8.css" media="screen" />
+<style type="text/css" media="print">
+<!--/*--><![CDATA[/*><!--*/
+#sb-container{position:relative;}#sb-overlay{display:none;}#sb-wrapper{position:relative;top:0;left:0;}#sb-loading{display:none;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.esmadrid.com/sites/default/files/css/css_qwjoL2O5EiDTCqordTxUvuyX8nviD_nl0e_BUS5XERo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.esmadrid.com/sites/default/files/css/css_zLVTPTdEVDG4a91uKQKmkcbr_uoeqfbRWs5JRFiDtwY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.esmadrid.com/sites/default/files/css/css_igpx2T27wGQeqCtNZoLy_s62NW8gL1rpqLLvlk8k-Pw.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#sliding-popup.sliding-popup-top{background:#565656;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p{color:#ffffff !important;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.esmadrid.com/sites/default/files/css/css_NvZIOmqnQvk9HZBYihAl7qKjgB_3oV0M3L5dgjwt6kU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.esmadrid.com/sites/default/files/css/css_YY6KKUaqoCgGtgr6Dx90WGyojcF4la7-qD96d9Fp5wk.css" media="all" />
+  <script type="text/javascript" src="https://www.esmadrid.com/sites/default/files/google_tag/language/google_tag.en.script.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.slots = googletag.slots || {};
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/misc/drupal.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/libraries/fitvids/jquery.fitvids.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/misc/jquery.cookie.js?v=1.0"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/libraries/shadowbox/shadowbox.js?v=3.0.3"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/modules/contrib/shadowbox/shadowbox_auto.js?v=3.0.3"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["roba2"] = googletag.defineSlot("/35370090/ROBA2", [300, 250], "dfp-ad-roba2")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["roba2"] = googletag.defineSlot("/35370090//35370090/ROBA2", [[[300], [250]]], "dfp-ad-roba2")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.esmadrid.com/misc/jquery.form.js?v=2.52"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["latera_izda_esmadrid"] = googletag.defineSlot("/35370090/LATERAL_IZDA", [160, 800], "dfp-ad-latera_izda_esmadrid")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["latera_dcha_esmadrid"] = googletag.defineSlot("/35370090/LATERAL_DCHA", [160, 800], "dfp-ad-latera_dcha_esmadrid")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["layer"] = googletag.defineSlot("/35370090/LAYER", [1024, 127], "dfp-ad-layer")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.esmadrid.com/misc/ajax.js?v=7.59"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/modules/contrib/collapsiblock/collapsiblock.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/modules/contrib/context_breakpoint/context_breakpoint.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/modules/custom/field_ajax_commands/js/field_ajax_commands.ajax.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/modules/contrib/fitvids/fitvids.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/modules/custom/weather_es/js/weather_es.js?pcqe9i"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+  googletag.pubads().enableAsyncRendering();
+  googletag.pubads().enableSingleRequest();
+  googletag.pubads().collapseEmptyDivs();
+  googletag.pubads().setTargeting("url", "en/24-hours-madrid");
+  googletag.pubads().setTargeting("type", "Portada");
+});
+
+googletag.enableServices();
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/libraries/colorbox/jquery.colorbox-min.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/modules/contrib/colorbox/js/colorbox.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/modules/contrib/colorbox/styles/default/colorbox_style.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/modules/contrib/colorbox/js/colorbox_load.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/modules/contrib/flag/theme/flag.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/modules/contrib/better_exposed_filters/better_exposed_filters.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/modules/contrib/mefibs/modules/mefibs_bef/mefibs_bef.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/misc/autocomplete.js?v=7.59"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/modules/contrib/search_api_live_results/js/search_api_live_results.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/misc/form.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/misc/collapse.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/modules/features/site_search/site_search.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/modules/contrib/views/js/base.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/misc/progress.js?v=7.59"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/modules/contrib/views/js/ajax_view.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/modules/contrib/views_flag_refresh/views_flag_refresh.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/libraries/msdropdown/js/msdropdown/jquery.dd.min.js?v=3.5.2"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/modules/contrib/lang_dropdown/lang_dropdown.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/themes/clusters_public_static/js/flexslider_video.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/libraries/flexslider/jquery.flexslider-min.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/modules/contrib/field_group/field_group.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/modules/contrib/colorbox_node/colorbox_node.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/themes/clusters_public_static/js/perfect-scrollbar/js/perfect-scrollbar.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/themes/clusters_public_static/js/clusters_public_static.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/themes/clusters_public_static/js/markerclusterer.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/themes/clusters_public_static/js/jquery.bxslider.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/themes/clusters_public_static/js/jquery.flexslider.js?pcqe9i"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+          Shadowbox.path = "/profiles/clusters_public/libraries/shadowbox/";
+        
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"clusters_public_static","theme_token":"rh32hCHessdEOf7ClvzdmE2W9E8TCIPq8ztPnhtvncQ","js":{"profiles\/clusters_public\/modules\/contrib\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"profiles\/clusters_public\/modules\/contrib\/flexslider\/assets\/js\/flexslider.load.js":1,"public:\/\/google_tag\/language\/google_tag.en.script.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"0":1,"https:\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"misc\/drupal.js":1,"profiles\/clusters_public\/libraries\/fitvids\/jquery.fitvids.js":1,"misc\/jquery.cookie.js":1,"profiles\/clusters_public\/libraries\/shadowbox\/shadowbox.js":1,"profiles\/clusters_public\/modules\/contrib\/shadowbox\/shadowbox_auto.js":1,"1":1,"2":1,"misc\/jquery.form.js":1,"3":1,"4":1,"5":1,"misc\/ajax.js":1,"profiles\/clusters_public\/modules\/contrib\/collapsiblock\/collapsiblock.js":1,"profiles\/clusters_public\/modules\/contrib\/context_breakpoint\/context_breakpoint.js":1,"profiles\/clusters_public\/modules\/custom\/field_ajax_commands\/js\/field_ajax_commands.ajax.js":1,"profiles\/clusters_public\/modules\/contrib\/fitvids\/fitvids.js":1,"profiles\/clusters_public\/modules\/custom\/weather_es\/js\/weather_es.js":1,"6":1,"profiles\/clusters_public\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/clusters_public\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/clusters_public\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/clusters_public\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/clusters_public\/modules\/contrib\/flag\/theme\/flag.js":1,"profiles\/clusters_public\/modules\/contrib\/better_exposed_filters\/better_exposed_filters.js":1,"profiles\/clusters_public\/modules\/contrib\/mefibs\/modules\/mefibs_bef\/mefibs_bef.js":1,"misc\/autocomplete.js":1,"profiles\/clusters_public\/modules\/contrib\/search_api_live_results\/js\/search_api_live_results.js":1,"misc\/form.js":1,"misc\/collapse.js":1,"profiles\/clusters_public\/modules\/features\/site_search\/site_search.js":1,"profiles\/clusters_public\/modules\/contrib\/views\/js\/base.js":1,"misc\/progress.js":1,"profiles\/clusters_public\/modules\/contrib\/views\/js\/ajax_view.js":1,"profiles\/clusters_public\/modules\/contrib\/views_flag_refresh\/views_flag_refresh.js":1,"profiles\/clusters_public\/libraries\/msdropdown\/js\/msdropdown\/jquery.dd.min.js":1,"profiles\/clusters_public\/modules\/contrib\/lang_dropdown\/lang_dropdown.js":1,"profiles\/clusters_public\/themes\/clusters_public_static\/js\/flexslider_video.js":1,"profiles\/clusters_public\/libraries\/flexslider\/jquery.flexslider-min.js":1,"profiles\/clusters_public\/modules\/contrib\/field_group\/field_group.js":1,"profiles\/clusters_public\/modules\/contrib\/colorbox_node\/colorbox_node.js":1,"profiles\/clusters_public\/themes\/clusters_public_static\/js\/perfect-scrollbar\/js\/perfect-scrollbar.js":1,"profiles\/clusters_public\/themes\/clusters_public_static\/js\/clusters_public_static.js":1,"profiles\/clusters_public\/themes\/clusters_public_static\/js\/markerclusterer.js":1,"profiles\/clusters_public\/themes\/clusters_public_static\/js\/jquery.bxslider.js":1,"profiles\/clusters_public\/themes\/clusters_public_static\/js\/jquery.flexslider.js":1,"7":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"profiles\/clusters_public\/libraries\/shadowbox\/shadowbox.css":1,"0":1,"profiles\/clusters_public\/libraries\/msdropdown\/css\/msdropdown\/dd.css":1,"profiles\/clusters_public\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"profiles\/clusters_public\/modules\/contrib\/collapsiblock\/collapsiblock.css":1,"profiles\/clusters_public\/modules\/contrib\/colorbox_node\/colorbox_node.css":1,"modules\/comment\/comment.css":1,"profiles\/clusters_public\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/clusters_public\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"profiles\/clusters_public\/modules\/contrib\/field_hidden\/field_hidden.css":1,"profiles\/clusters_public\/modules\/contrib\/fitvids\/fitvids.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/clusters_public\/modules\/contrib\/views\/css\/views.css":1,"profiles\/clusters_public\/modules\/contrib\/better_messages\/better_messages_admin.css":1,"profiles\/clusters_public\/modules\/contrib\/better_messages\/skins\/default\/better_messages.css":1,"profiles\/clusters_public\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/clusters_public\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/clusters_public\/modules\/contrib\/flag\/theme\/flag.css":1,"profiles\/clusters_public\/modules\/contrib\/better_exposed_filters\/better_exposed_filters.css":1,"profiles\/clusters_public\/modules\/custom\/gadget\/css\/gadget.css":1,"profiles\/clusters_public\/modules\/contrib\/print\/print_ui\/css\/print_ui.theme.css":1,"profiles\/clusters_public\/modules\/contrib\/lang_dropdown\/msdropdown\/css\/msdropdown\/ldsSkin.css":1,"1":1,"profiles\/clusters_public\/modules\/contrib\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"profiles\/clusters_public\/modules\/contrib\/flexslider\/assets\/css\/flexslider_img.css":1,"profiles\/clusters_public\/libraries\/flexslider\/flexslider.css":1,"profiles\/clusters_public\/modules\/gadgets\/gadget_bloque\/css\/gadget_bloque.css":1,"profiles\/clusters_public\/modules\/gadgets\/gadget_contenido\/css\/gadget_contenido.css":1,"profiles\/clusters_public\/modules\/features\/gadget_publicidad\/css\/gadget_publicidad.css":1,"profiles\/clusters_public\/modules\/gadgets\/gadget_items\/css\/gadget_items.css":1,"profiles\/clusters_public\/modules\/contrib\/field_group\/field_group.css":1,"profiles\/clusters_public\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"profiles\/clusters_public\/modules\/contrib\/ds\/layouts\/ds_2col_stacked_fluid\/ds_2col_stacked_fluid.css":1,"profiles\/clusters_public\/themes\/clusters_public_static\/css\/generic.css":1,"profiles\/clusters_public\/themes\/clusters_public_static\/css\/layout.css":1,"profiles\/clusters_public\/themes\/clusters_public_static\/css\/interiores.css":1,"profiles\/clusters_public\/themes\/clusters_public_static\/css\/admin-pages.css":1,"profiles\/clusters_public\/themes\/clusters_public_static\/css\/tinymce.css":1,"profiles\/clusters_public\/themes\/clusters_public_static\/css\/responsive.css":1,"profiles\/clusters_public\/themes\/clusters_public_static\/js\/perfect-scrollbar\/css\/perfect-scrollbar.css":1,"profiles\/clusters_public\/themes\/clusters_public_static\/js\/jquery.bxslider.css":1}},"collapsiblock":{"blocks":{"block-views--exp-buscador-general-page":"1","block-dfp-layer":"2","block-dfp-lateral-izda-rt":"1","block-dfp-latera-izda-esmadrid":"1","block-dfp-lateral-dcha-rt":"1","block-dfp-interstitial":"1","block-quicktabs-bloque-siguenos":"1","block-views--esmadridpro-ofertas-home-block":"1"},"default_state":1,"slide_type":1,"slide_speed":200,"block_title":":header:first","block":"div.block","block_content":"div.content"},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"context_breakpoint":{"settings":{"admin_disable_reload":false,"save_resolution":false,"breakpoints_in_url":false},"contexts":{"block_large":{"autoreload":1,"breakpoints":{"custom.user.min_width_480px_and_max_width_974px":{"min-width":480,"max-width":974}}},"block_small":{"autoreload":1,"breakpoints":{"custom.user.max_width_480px":{"max-width":480}}},"viewmode_min":{"autoreload":0,"breakpoints":{"custom.user.max_width_480px":{"max-width":480}}},"viewmode_large":{"autoreload":0,"breakpoints":{"custom.user.max_width_1023px":{"max-width":1023}}},"viewmode_medium":{"autoreload":1,"breakpoints":{"custom.user.max_width_869px":{"max-width":869}}},"viewmode_small":{"autoreload":1,"breakpoints":{"custom.user.max_width_599px":{"max-width":599}}},"general_blocks":{"autoreload":1,"breakpoints":{"custom.user.min_width_975px":{"min-width":975}}}},"is_admin":false},"shadowbox":{"animate":1,"animateFade":1,"animSequence":"wh","auto_enable_all_images":0,"auto_gallery":0,"autoplayMovies":false,"continuous":0,"counterLimit":"10","counterType":"default","displayCounter":1,"displayNav":1,"enableKeys":1,"fadeDuration":"0.35","handleOversize":"resize","handleUnsupported":"link","initialHeight":160,"initialWidth":320,"language":"en","modal":false,"overlayColor":"#000","overlayOpacity":"0.85","resizeDuration":"0.35","showMovieControls":1,"slideshowDelay":"0","viewportPadding":20,"useSizzle":0},"flag":{"anonymous":true},"better_exposed_filters":{"datepicker":false,"slider":false,"settings":[]},"mefibs":{"forms":{"default":{"view_name":"buscador_recursos_info_turistica","view_display_id":"page","form_prefix":"","elements":["text","search_api_views_fulltext_op","zone","field_turisitic_zone_op","type","field_tourist_info_type_op"]}}},"search_api_live_results":{"min_length":3,"auto_hide":true},"urlIsAjaxTrusted":{"\/en\/tourist-information\/search":true,"\/en\/24-hours-madrid":true,"\/en\/24-hours-madrid?destination=node\/65728":true},"views":{"ajax_path":"\/en\/views\/ajax","ajaxViews":{"views_dom_id:0ac34ac376a9ad7df94b848dadca9139":{"view_name":"flagged_content","view_display_id":"block","view_args":"","view_path":"node\/65728","view_base_path":"bookmarks","view_dom_id":"0ac34ac376a9ad7df94b848dadca9139","pager_element":0}}},"viewsFlagRefresh":{"imagePath":"\/profiles\/clusters_public\/modules\/contrib\/views_flag_refresh\/images","flags":{"content_flag":{"flagged_content-block":{"themeHook":false,"themeHookPost":false}}}},"lang_dropdown":{"language":{"jsWidget":{"languageicons":{"es":"https:\/\/www.esmadrid.com\/profiles\/clusters_public\/modules\/contrib\/languageicons\/flags\/es.png","en":"https:\/\/www.esmadrid.com\/profiles\/clusters_public\/modules\/contrib\/languageicons\/flags\/en.png","fr":"https:\/\/www.esmadrid.com\/profiles\/clusters_public\/modules\/contrib\/languageicons\/flags\/fr.png","ru":"https:\/\/www.esmadrid.com\/profiles\/clusters_public\/modules\/contrib\/languageicons\/flags\/ru.png","zh-hans":"https:\/\/www.esmadrid.com\/profiles\/clusters_public\/modules\/contrib\/languageicons\/flags\/zh-hans.png","ja":"https:\/\/www.esmadrid.com\/profiles\/clusters_public\/modules\/contrib\/languageicons\/flags\/ja.png","de":"https:\/\/www.esmadrid.com\/profiles\/clusters_public\/modules\/contrib\/languageicons\/flags\/de.png","it":"https:\/\/www.esmadrid.com\/profiles\/clusters_public\/modules\/contrib\/languageicons\/flags\/it.png","pt":"https:\/\/www.esmadrid.com\/profiles\/clusters_public\/modules\/contrib\/languageicons\/flags\/pt.png"},"widget":"msdropdown","visibleRows":"10","roundedCorner":0,"animStyle":"slideDown","event":"click","mainCSS":"ldsSkin"}}},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003ECOOKIES INFORMATION\n\u003C\/p\u003E\u003Cp\u003EYou are informed that the esMADRID.com website uses proprietary and third party cookies to compile information in order to optimise certain browsing dynamics, which can offer useful tools such as \u201cadding Favourites\u201d. These cookies are not used to gather personal information. By continuing to browse the website you implicitly accept the use of said cookies.\u003C\/p\u003E\n\u003Cp\u003EMore information is available in our \u003Ca href=\u0022http:\/\/www.esmadrid.com\/en\/cookies-policy\u0022\u003ECookies Policy\u003C\/a\u003E\u00a0section.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EOK, I agree\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003ENo, give me more info\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003EThank you for accepting cookies\n\u003C\/p\u003E\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EHide\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EMore info\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/en\/en\/privacy-policy","popup_link_new_window":1,"popup_position":1,"popup_language":"en","domain":""},"fitvids":{"custom_domains":[],"selectors":["body"],"simplifymarkup":true},"flexslider":{"optionsets":{"content_type":{"namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":600,"initDelay":0,"useCSS":true,"touch":true,"video":true,"keyboard":false,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":0,"itemMargin":0,"minItems":1,"maxItems":1,"move":0,"animation":"fade","slideshow":true,"slideshowSpeed":"7000","directionNav":true,"controlNav":true,"prevText":"Anterior","nextText":"Siguiente","pausePlay":false,"pauseText":"Pausa","playText":"Play","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":true,"pauseOnAction":true,"pauseOnHover":false,"manualControls":""},"slider_gadget_contenido":{"manualControls":"#flexslider-2-thumbs \u003E li","namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":600,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":false,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":0,"itemMargin":0,"minItems":1,"maxItems":1,"move":0,"animation":"fade","slideshow":true,"slideshowSpeed":"7000","directionNav":true,"controlNav":"thumbnails","prevText":"Anterior","nextText":"Siguiente","pausePlay":false,"pauseText":"Pausa","playText":"Play","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":true,"pauseOnAction":true,"pauseOnHover":false}},"instances":{"flexslider-1":"content_type","flexslider-2":"slider_gadget_contenido"}},"field_group":{"link":"teaser_gadget"},"colorbox_node":{"width":"600px","height":"600px"}});
+//--><!]]>
+</script>
+<script type="text/javascript">Drupal.behaviors.contextBreakpoint.preInit();</script>
+
+  <link rel="apple-touch-icon" href="/profiles/clusters_public/themes/clusters_public_static/icon_app/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="/profiles/clusters_public/themes/clusters_public_static/icon_app/apple-touch-icon-57x57.png" />
+  <link rel="apple-touch-icon" sizes="72x72" href="/profiles/clusters_public/themes/clusters_public_static/icon_app/apple-touch-icon-72x72.png" />
+  <link rel="apple-touch-icon" sizes="76x76" href="/profiles/clusters_public/themes/clusters_public_static/icon_app/apple-touch-icon-76x76.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="/profiles/clusters_public/themes/clusters_public_static/icon_app/apple-touch-icon-114x114.png" />
+  <link rel="apple-touch-icon" sizes="120x120" href="/profiles/clusters_public/themes/clusters_public_static/icon_app/apple-touch-icon-120x120.png" />
+  <link rel="apple-touch-icon" sizes="144x144" href="/profiles/clusters_public/themes/clusters_public_static/icon_app/apple-touch-icon-144x144.png" />
+  <link rel="apple-touch-icon" sizes="152x152" href="/profiles/clusters_public/themes/clusters_public_static/icon_app/apple-touch-icon-152x152.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/profiles/clusters_public/themes/clusters_public_static/icon_app/apple-touch-icon-180x180.png" />
+
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+  <script>document.cookie='resolution='+Math.max(screen.width,screen.height)+'; path=/';</script>
+
+  <script src="//use.typekit.net/zsk4mpq.js"></script>
+  <script>try{Typekit.load();}catch(e){}</script>
+
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-65728 node-type-cover domain-turismo-madrid i18n-en sidebar_both no-js" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MS2QD8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>    <div id="wrapper">   
+
+    <div id="container" class="clearfix">
+
+      <div class="main-menu responsive-icon">
+        <a class="responsive-open" href="#container">MENU</a>
+      </div>
+
+      <div id="header">
+        <div id="logo-floater">
+                              <div id="branding">
+              <!-- <span class="site_html"></span> -->
+              <a class="site_slogan" href="/en">Official tourism website</a>
+                          <a class="logo" href="/en"><img src="https://www.esmadrid.com/profiles/clusters_public/themes/clusters_public_static/logo.svg" alt="Turismo Madrid Official tourism website" title="Turismo Madrid Official tourism website" id="logo" /></a>
+                        </div>
+                          </div>
+
+          <div class="region region-header-top">
+    <div id="block-lang-dropdown-language" class="block block-lang-dropdown">
+
+    
+  <div class="content">
+    <form class="lang_dropdown_form language" id="lang_dropdown_form_language" action="/en/24-hours-madrid" method="post" accept-charset="UTF-8"><div><div class="form-item form-type-select form-item-lang-dropdown-select">
+ <select style="width:110px" class="lang-dropdown-select-element form-select" id="lang-dropdown-select-language" name="lang_dropdown_select"><option value="es">Español</option><option value="en" selected="selected">English</option><option value="fr">Français</option><option value="ru">Русский</option><option value="zh-hans">中文版</option><option value="ja">日本語</option><option value="de">Deutsch</option><option value="it">Italiano</option><option value="pt">Português</option></select>
+</div>
+<input type="hidden" name="es" value="/node/65728" />
+<input type="hidden" name="en" value="/en/24-hours-madrid" />
+<input type="hidden" name="fr" value="/fr/node/65728" />
+<input type="hidden" name="ru" value="/ru/node/65728" />
+<input type="hidden" name="zh-hans" value="/zh/node/65728" />
+<input type="hidden" name="ja" value="/ja/node/65728" />
+<input type="hidden" name="de" value="/de/node/65728" />
+<input type="hidden" name="it" value="/it/node/65728" />
+<input type="hidden" name="pt" value="/pt/node/65728" />
+<noscript><div>
+<input type="submit" id="edit-submit" name="op" value="Go" class="form-submit" />
+</div></noscript><input type="hidden" name="form_build_id" value="form-IuvMxn7UMgGFDKZP6cvBi6pmjrKfR47zzye1kZ8eb9o" />
+<input type="hidden" name="form_id" value="lang_dropdown_form" />
+</div></form>  </div>
+</div>
+<div id="block-user-login" class="block block-user">
+
+    <h2><a href="/en/user/login" class="link">User login</a></h2>
+  
+  <div class="content">
+    <form action="/en/24-hours-madrid?destination=node/65728" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">User or e-mail <span class="form-required" title="This field is required.">*</span></label>
+ <input tabindex="1" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input tabindex="1" type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="form-item form-type-checkbox form-item-remember-me">
+ <input tabindex="1" type="checkbox" id="edit-remember-me" name="remember_me" value="1" class="form-checkbox" />  <label class="option" for="edit-remember-me">Remember me </label>
+
+</div>
+<div class="item-list"><ul><li class="first"><a href="/en/user/register" title="Create a new user account.">Register</a></li>
+<li class="last"><a href="/en/user/password" title="Request new password via e-mail.">I forgot my password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-NHNj5sbRma4KY19_f3fbR14fc2G2ZrQXt6_zpi6nHl4" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="item-list"><ul class="twitter_signin"><li class="first last"><a href="/en/twitter/redirect" class="twitter-signin-menuitem twitter-signin-menuitem-image"><img typeof="foaf:Image" src="https://www.esmadrid.com/profiles/clusters_public/modules/contrib/twitter/twitter_signin/images/Sign-in-with-Twitter-lighter-small.png" alt="Sign in with Twitter" /></a></li>
+</ul></div><a  class="facebook-action-connect" rel="nofollow" href="https://www.facebook.com/v2.3/dialog/oauth?client_id=1400410763505596&redirect_uri=https%3A//www.esmadrid.com/en/fboauth/connect%3Fdestination%3Dnode%252F65728&scope=email%2Cuser_birthday"><img src="https://www.facebook.com/images/fbconnect/login-buttons/connect_light_medium_short.gif" alt="" /></a><div class="connect">Connect via your social network</div><div class="form-actions form-wrapper" id="edit-actions"><input tabindex="1" type="submit" id="edit-submit--2" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+          <div class="region region-header-bottom">
+    <div id="block-menu-menu-main-menu-en" class="block block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first expanded"><a href="/en/discover-madrid" title="Discover Madrid">Discover Madrid</a><ul class="menu"><li class="first leaf"><a href="/en/madrid-at-a-glance" title="At a glance">At a glance</a></li>
+<li class="leaf"><a href="/en/madrid-neighbourhoods" title="Neighbourhoods">Neighbourhoods</a></li>
+<li class="last leaf"><a href="/en/choose-your-madrid" title="Choose your Madrid">Choose your Madrid</a></li>
+</ul></li>
+<li class="expanded"><a href="/en/things-to-do-in-madrid" title="Things to do">Things to do</a><ul class="menu"><li class="first leaf"><a href="/en/madrid-art-and-culture" title="Art and culture">Art and culture</a></li>
+<li class="leaf"><a href="https://www.esmadrid.com/en/madrid-for-kids">Madrid for kids</a></li>
+<li class="leaf"><a href="/en/madrid-food-and-drink" title="Food and drink">Food and drink</a></li>
+<li class="leaf"><a href="/en/shopping-madrid" title="Shopping">Shopping</a></li>
+<li class="leaf"><a href="/en/madrid-nightlife" title="Nightlife">Nightlife</a></li>
+<li class="leaf"><a href="/en/flamenco-madrid-en" title="Flamenco">Flamenco</a></li>
+<li class="leaf"><a href="/en/sport-in-madrid" title="Sport">Sport</a></li>
+<li class="leaf"><a href="/en/parks-gardens-madrid" title="Parks and gardens">Parks and gardens</a></li>
+<li class="leaf"><a href="/en/amusement-parks-and-zoos" title="Amusement parks and zoos">Amusement parks and zoos</a></li>
+<li class="last leaf"><a href="/en/itineraries-and-day-trips-madrid" title="Itineraries and day trips">Day trips and itineraries</a></li>
+</ul></li>
+<li class="expanded"><a href="/en/whats-on-madrid" title="What&#039;s on">What&#039;s on</a><ul class="menu"><li class="first leaf"><a href="/en/whats-on-exhibitions-madrid">Exhibitions</a></li>
+<li class="leaf"><a href="/en/whats-on-theatre-and-dance-madrid">Theatre and dance</a></li>
+<li class="leaf"><a href="/en/whats-on-music-madrid">Music</a></li>
+<li class="leaf"><a href="/en/whats-on-sport-madrid">Sports</a></li>
+<li class="leaf"><a href="/en/whats-on-events-madrid">Special events</a></li>
+<li class="leaf"><a href="/en/whats-on-congresses-and-trade-shows-madrid">Conferences and trade shows</a></li>
+<li class="last leaf"><a href="https://www.esmadrid.com/en/events-calendar">2018 Events Calendar</a></li>
+</ul></li>
+<li class="last expanded"><a href="/en/plan-your-trip-madrid" title="Plan your trip">Plan your trip</a><ul class="menu"><li class="first leaf"><a href="/en/where-to-stay" title="Where to stay">Where to stay</a></li>
+<li class="leaf"><a href="/en/getting-to-madrid" title="Getting here">Getting here</a></li>
+<li class="leaf"><a href="/en/getting-around-madrid" title="Getting around">Getting around</a></li>
+<li class="leaf"><a href="/en/essential-information-madrid" title="Essential information">Essential information</a></li>
+<li class="leaf"><a href="/en/accessible-madrid" title="Accessibility">Accessibility</a></li>
+<li class="leaf"><a href="/en/tourist-information-centres" title="Tourist information centres">Tourist information centres</a></li>
+<li class="leaf"><a href="/en/maps-and-essential-guides" title="Maps and guides">Maps and guides</a></li>
+<li class="leaf"><a href="/en/learning-spanish" title="Learning Spanish">Learning Spanish</a></li>
+<li class="leaf"><a href="/en/other-cultures" title="Other cultures">Other cultures</a></li>
+<li class="last leaf"><a href="https://blog.esmadrid.com/blog/en/" target="_blank">Bloggin&#039; Madrid</a></li>
+</ul></li>
+</ul>  </div>
+</div>
+  </div>
+
+      </div> <!-- /#header -->
+
+      <div id="dfp-ads-sidebars">
+
+                      <div id="sidebar-left" class="sidebar">
+                <div class="region region-sidebar-left">
+    <div id="block-dfp-latera-izda-esmadrid" class="block block-dfp">
+
+    
+  <div class="content">
+    <div id="dfp-ad-latera_izda_esmadrid-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-latera_izda_esmadrid" class="dfp-tag-wrapper">
+  <div class="slug">Advertisement</div>  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-latera_izda_esmadrid");
+    });
+  </script>
+</div>
+</div>  </div>
+</div>
+  </div>
+            </div>
+          
+                      <div id="sidebar-right" class="sidebar">
+                <div class="region region-sidebar-right">
+    <div id="block-dfp-latera-dcha-esmadrid" class="block block-dfp">
+
+    
+  <div class="content">
+    <div id="dfp-ad-latera_dcha_esmadrid-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-latera_dcha_esmadrid" class="dfp-tag-wrapper">
+  <div class="slug">Advertisement</div>  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-latera_dcha_esmadrid");
+    });
+  </script>
+</div>
+</div>  </div>
+</div>
+  </div>
+            </div>
+          
+      </div>
+
+      <div id="center"><div id="squeeze"><div class="right-corner"><div class="left-corner">
+
+                    <a id="main-content"></a>
+          <div id="tabs-wrapper" class="clearfix">          </div>                                                  <div class="clearfix">
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div  about="/en/24-hours-madrid" typeof="sioc:Item foaf:Document" class="ds-2col-stacked-fluid node node-cover view-mode-full clearfix">
+
+  
+  <div class="group-header">
+    <h1 class="field field-name-title-field field-type-text field-label-hidden"><div class="field-items"><div class="field-item odd first last" property="">24 hours in Madrid</div></div></h1>  </div>
+
+      <div class="group-left">
+      <div  id="flexslider-1" class="flexslider">
+  <ul class="slides"><li><div id="file-95798" class="file file-image file-image-jpeg">
+
+        <!-- <h2><a href=""></a></h2> -->
+    <!-- <h2 class="element-invisible">GranViaMadrid_1398771941838_1401274516.173.jpg</h2>-->
+    
+  
+  <div class="content">
+    <img typeof="foaf:Image" src="https://www.esmadrid.com/sites/default/files/styles/content_type_full/public/editorial/GranViaMadrid_1398771941838_1401274516.173.jpg?itok=GyB-gZH-" width="660" height="335" alt="" />  </div>
+
+  
+</div>
+<div class="flex-caption">GranViaMadrid_1398771941838_1401274516.173.jpg</div></li>
+</ul></div>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item odd" property="content:encoded"><p><strong><strong>Do you only have one day to take in the city of Madrid? We&rsquo;ve got you covered! Our guide to spending 24 hours in the capital of Spain has plenty of suggestions for the morning, afternoon, evening and late night. Choose the activities and attractions you like best and enjoy. You&rsquo;ll surely come back for more.</strong></strong></p>
+<p><strong>IN THE MORNING</strong></p>
+<p><strong>Prado Museum</strong></p>
+<p>The superb <a href="https://www.esmadrid.com/en/tourist-information/museo-del-prado"><strong>Prado Museum</strong></a> is regarded by many to have the finest art in the world. It houses works belonging to the Spanish Royal collection, including paintings by Rogier van der Weyden, Hieronymus <em>Bosch</em>, Rubens, Fra Angelico, El Greco and Titian, among other artists. However, the Museum stands out for the masterpieces of two of the greatest Spanish painters: Velázquez and Goya. Choose your favourite artist and focus on their paintings or take a tour through the 10 Prado Museum highlights.</p>
+<p><strong>Reina Sofía Museum (MNCARS)</strong></p>
+<p>If you prefer to visit a modern and contemporary art museum, we recommend the <strong><a href="https://www.esmadrid.com/en/tourist-information/museo-reina-sofia-mncars">Reina Sofía Museum (MNCARS)</a></strong>, which tells the story of Spanish and European art from the historical avant-garde movements to the present, with a core focus on Guernica, one of Picasso&rsquo;s masterpieces.</p>
+<p><strong>El Rastro</strong></p>
+<p>The <strong>most traditional open-air flea market in Madrid</strong>, <strong><a href="https://www.esmadrid.com/en/shopping/el-rastro">El Rastro </a></strong>takes you along Ribera de Curtidores and the adjoining streets every Sunday. They say what you can&rsquo;t find in El Rastro you can&rsquo;t find anywhere else. From clothes to records or books to natural rubber, keys, frying pans, knives, hats, antiques and all kinds of things you won&rsquo;t even know what they&rsquo;re for. After a stroll through this bustling street market, you could have a drink in <a href="https://www.esmadrid.com/en/madrid-neighbourhoods/latina"><strong>La Latina</strong></a> district. The shops in the area, offering antiques, second-hand goods and furniture, are open on weekdays too.</p>
+<p><strong>El Retiro Park</strong></p>
+<p>The green lung in central Madrid doubles as an interesting cultural complex. When the park was commissioned by King Phillip IV, it was meant to be the garden of the Buen Retiro Palace. Since the nineteenth century, it&rsquo;s been open to all. The wonderful hall of steel and glass that can be seen today was built to host art and industry exhibitions. <a href="https://www.esmadrid.com/en/tourist-information/parque-del-retiro"><strong>El Retiro</strong></a> is always lively, filled with <em>Madrileños</em> out for jogging, bicycling, rollerblading, rowing, visiting an exhibition or having a drink in an outdoor café, all in a bohemian and family-friendly atmosphere.</p>
+<p><strong>IN THE AFTERNOON</strong></p>
+<p><strong>From Plaza Mayor to Royal Palace</strong></p>
+<p>You&rsquo;ll absolutely enjoy walking through the city, especially across <strong>Madrid de los Austrias</strong> (Hapsburg Madrid). In this part of town, from <a href="https://www.esmadrid.com/en/tourist-information/plaza-mayor-madrid"><strong>Plaza Mayor</strong></a> to <strong>Plaza de Oriente</strong>, are most palaces and convents from the seventeenth century, when the royal court moved to Madrid. Now listen: fold up your map, put away your guidebook and get lost. You&rsquo;ll find yourself in winding alleys lined with taverns, a Baroque church or a tucked-away garden. The itinerary will lead you to Madrid landmarks like the <a href="https://www.esmadrid.com/en/shopping/mercado-de-san-miguel"><strong>San Miguel Market</strong></a>, the <a href="https://www.esmadrid.com/en/tourist-information/royal-palace"><strong>Royal Palace</strong></a> or the <a href="https://www.esmadrid.com/en/tourist-information/teatro-real"><strong><span>Teatro Real</span> </strong></a>opera house.&nbsp;Located very nearby, it&rsquo;s easy to get to the Egyptian <strong><a href="https://www.esmadrid.com/en/tourist-information/templo-de-debod">Temple of </a><a href="https://www.esmadrid.com/informacion-turistica/templo-de-debod">Debod</a></strong>, whose gardens offer beautiful views of the sunset.</p>
+<p><strong>From Atocha to Cuatro Torres Business Area</strong></p>
+<p>The long north-south axis of Madrid starts at Glorieta del Emperador Carlos V and runs along Paseo del Prado, Paseo de Recoletos and La Castellana, ending past the <a href="https://www.esmadrid.com/en/tourist-information/cuatro-torres-business-area"><strong>Cuatro Torres Business Area</strong></a> at the Nudo Norte road junction. Along these avenues you&rsquo;ll find ministry buildings, the <a href="https://www.esmadrid.com/en/tourist-information/biblioteca-nacional"><strong>National Library</strong></a>, the <a href="https://www.esmadrid.com/en/tourist-information/banco-de-espana"><strong>Bank of Spain</strong></a> and the <a href="https://www.esmadrid.com/en/tourist-information/santiago-bernabeu-stadium"><strong>Santiago Bernabéu stadium</strong></a>. The Neptuno, Cibeles and Colón fountains or the sculptures in the Museum of Public Art are some of the monuments you&rsquo;ll come across along the way. As the itinerary covers several kilometres, you could take the Madrid City Tour (hop-on hop-off sightseeing bus, line 2) or a <a href="http://www.emtmadrid.es/Home" target="_blank">Madrid bus</a> (line 27 runs along the axis, departing from Glorieta de Embajadores).</p>
+<p><strong>From Sol to Gran Vía</strong></p>
+<p>You&rsquo;ll love wandering through the streets of the vibrant heart of Madrid. Not only do they shelter museums, churches, palaces and parks but they also have interesting stories to tell. Start at the Kilometre zero marker in <a href="https://www.esmadrid.com/en/tourist-information/puerta-del-sol"><strong>Puerta del Sol</strong></a>, from which the national roads starting in Madrid fan out. The second busiest street in the world according to the Guinness Book of Records, <a href="https://www.esmadrid.com/en/shopping-preciados"><strong>Calle de Preciados</strong></a>, begins in this large square. Then take <a href="https://www.esmadrid.com/en/shopping-gran-via"><strong>Gran Vía</strong></a>, a lively traditional avenue on which shops, cafés, movie theatres and theatres are to be found.</p>
+<p><strong>AT NIGHT</strong></p>
+<p><strong>Out for <a href="https://www.esmadrid.com/en/tapas-in-madrid">tapas</a> in Barrio de las Letras</strong></p>
+<p>When the sun goes down, the city wakes up. As they say, Madrid never sleeps. A good place to start your <strong>tapas tour</strong> &ndash; which consists in hopping from bar to bar eating bite-size food and drinking a glass of wine or beer &ndash; is <strong>Plaza de Santa Ana</strong>, in Barrio de las Letras (Literary Quarter), just a stone&rsquo;s throw from Puerta del Sol.</p>
+<p><strong>Clubbing in Gran Vía, Malasaña and Chueca</strong></p>
+<p>Beyond Gran Vía are Madrid&rsquo;s <a href="https://www.esmadrid.com/en/madrid-nightlife"><strong>nightlife</strong></a> hotspots &ndash; Malasaña and Chueca. Since the late 1980s, these two districts have housed the bars, pubs, music venues and clubs that turned the Madrid party into one of the coolest the world over. Malasaña plays indie music, while Chueca is filled with nightclubs catering to the<a href="https://www.esmadrid.com/en/madrid-beacon-of-tolerance-diversity"> gay and lesbian community.</a></p>
+<p>There&rsquo;s no better place in Madrid for a great cocktail than Museo Chicote, named after <a href="https://www.esmadrid.com/en/nightlife/museo-chicote"><strong>Perico Chicote</strong></a>, the barman who opened this establishment on Gran Vía more than 80 years ago. Classic and creative cocktails here are the perfect mix of wonderful colours, smells and flavours.&nbsp;As far as the contemporary mixology scene is concerned, one place that deserves a special mention is <a href="https://www.esmadrid.com/en/nightlife/1862-dry-bar"><strong>1862 Dry Bar</strong></a>, a cocktail bar with a classic vibe set in an old mansion in the centre of Madrid built in 1862, hence the establishment&rsquo;s name. Without a doubt, it&#39;s a great place to start a night out in Madrid.</p>
+<p align="left">Sure, Madrid is a city for night owls, but now wave goodbye because there&rsquo;s little time remaining from your 24 hours in the capital of Spain. See you back soon!</p>
+</div></div></div><div class="gl-layout" id="field-main-container-gl-layout-content"><div id="field_main_container-row-0" class="gl-row "><div class="gl-row-contenedor"><div class="gl-row-contenedor-unique"><div id="field_main_container-0-0" class="gl-hollow gl-hollow-0-100 " style="width: 100%"><div  style="" about="/en/gadget/10562" typeof="" class="ds-1col gadget entity-gadget gadget-contenido gadget-contenido-grid-2col view-mode-grid_2col clearfix">
+
+  
+  <h2 class="field field-name-field-titulo field-type-text field-label-hidden"><div class="field-item odd first last">DON&#039;T MISS</div></h2><div class="field field-name-field-entidades field-type-entityreference field-label-hidden"><div class="field-items"><div class="field-item odd"><div  about="/en/madrid-top-10" typeof="sioc:Item foaf:Document" class="ds-1col node node-cover view-mode-grid_2col clearfix">
+
+  
+  <div class="field-group-link-format group_link_wrappergroup-link-wrapper field-group-link"><a href="/en/madrid-top-10" ><div class="field field-name-field-images field-type-file field-label-hidden"><div class="field-items"><div class="field-item odd"><div id="file-102685" class="file file-image file-image-jpeg">
+
+        <!-- <h2><a href=""></a></h2> -->
+    <!-- <h2 class="element-invisible">62015739_21122009144237_adj.jpg</h2>-->
+    
+  
+  <div class="content">
+    <img typeof="foaf:Image" src="https://www.esmadrid.com/sites/default/files/styles/teaser_gadget/public/recursosturisticos/infoturistica/62015739_21122009144237_adj.jpg?itok=-AbOg-yO" width="323" height="163" alt="" />  </div>
+
+  
+</div>
+</div></div></div><h3 class="field field-name-title-field field-type-text field-label-hidden"><div class="field-items"><div class="field-item odd first last" property="">Madrid Top 10</div></div></h3></a></div><div class="field field-name-resumen field-type-ds field-label-hidden"><div class="field-items"><div class="field-item odd"><p>
+<p>From one of the largest Royal Palaces in Europe to Real Madrid&#39;s stadium, discover the city&#39;s most popular sights and attractions.</p>
+</p>
+</div></div></div></div>
+
+</div><div class="field-item even"><div  about="/en/maps-and-essential-guides" typeof="sioc:Item foaf:Document" class="ds-1col node node-cover view-mode-grid_2col clearfix">
+
+  
+  <div class="field-group-link-format group_link_wrappergroup-link-wrapper field-group-link"><a href="/en/maps-and-essential-guides" ><div class="field field-name-field-images field-type-file field-label-hidden"><div class="field-items"><div class="field-item odd"><div id="file-117611" class="file file-image file-image-jpeg">
+
+        <!-- <h2><a href=""></a></h2> -->
+    <!-- <h2 class="element-invisible">mapablocturistico_enero2016.jpg</h2>-->
+    
+  
+  <div class="content">
+    <img typeof="foaf:Image" src="https://www.esmadrid.com/sites/default/files/styles/teaser_gadget/public/documentos/mapablocturistico_enero2016.jpg?itok=YiIJCezH" width="323" height="163" alt="Mapa turístico de Madrid enero 2016" title="Mapa turístico de Madrid enero 2016" />  </div>
+
+  
+</div>
+</div></div></div><h3 class="field field-name-title-field field-type-text field-label-hidden"><div class="field-items"><div class="field-item odd first last" property="">Maps and Essential Guides of Madrid</div></div></h3></a></div><div class="field field-name-resumen field-type-ds field-label-hidden"><div class="field-items"><div class="field-item odd"><p>
+<p>Check out and download everything you to need to feel right at home in our city.</p>
+</p>
+</div></div></div></div>
+
+</div></div></div></div>
+
+</div>
+<div class="ds-limpiar"></div></div><div class="ds-limpiar"></div></div></div>
+</div>
+    </div>
+  
+      <div class="group-right">
+      <div class="gl-layout" id="field-sidebar-container-gl-layout-content"><div id="field_sidebar_container-row-0" class="gl-row "><div class="gl-row-contenedor"><div class="gl-row-contenedor-unique"><div id="field_sidebar_container-0-0" class="gl-hollow gl-hollow-0-100 " style="width: 100%"><div  style="" about="/en/gadget/4951" typeof="" class="ds-1col gadget entity-gadget gadget-bloque gadget-bloque-full view-mode-full clearfix">
+
+  
+  <div class="field field-name-field-bloque-gadget field-type-blockreference field-label-hidden"><div class="field-items"><div class="field-item odd"><div id="block-views-ac9c8d45724460fc28ef214c2452d7b2" class="block block-views">
+
+    
+  <div class="content">
+    <form action="/en/tourist-information/search" method="get" id="views-exposed-form-buscador-recursos-info-turistica-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-text-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-text">
+            Tourist information          </label>
+                        <div class="views-widget">
+          <input type="text" id="edit-text" name="text" value="" size="30" maxlength="128" class="form-text form-autocomplete live-results-search-textfield" /><input type="hidden" id="edit-text-autocomplete" value="https://www.esmadrid.com/en/search_api_live_results/search_api_views_buscador_recursos_info_turistica" disabled="disabled" class="live-result-autocomplete" />        </div>
+              </div>
+          <div id="edit-zone-wrapper" class="views-exposed-widget views-widget-filter-field_turisitic_zone">
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-zone">
+ <fieldset class="bef-select-as-checkboxes-fieldset collapsible collapsed form-wrapper"><legend><span class="fieldset-legend">Area</span></legend><div class="fieldset-wrapper"><div class="form-checkboxes bef-select-as-checkboxes"><div class="bef-checkboxes"><div class="form-item form-type-bef-checkbox form-item-edit-zone-7226">
+ <input type="checkbox" name="zone[]" id="edit-zone-7226" value="7226"  /> <label class='option' for='edit-zone-7226'>Aeropuerto / Feria de Madrid (10)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-zone-7227">
+ <input type="checkbox" name="zone[]" id="edit-zone-7227" value="7227"  /> <label class='option' for='edit-zone-7227'>Austrias (55)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-zone-7228">
+ <input type="checkbox" name="zone[]" id="edit-zone-7228" value="7228"  /> <label class='option' for='edit-zone-7228'>Barrio de las Letras (39)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-zone-7229">
+ <input type="checkbox" name="zone[]" id="edit-zone-7229" value="7229"  /> <label class='option' for='edit-zone-7229'>Barrio de Salamanca (45)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-zone-7230">
+ <input type="checkbox" name="zone[]" id="edit-zone-7230" value="7230"  /> <label class='option' for='edit-zone-7230'>Casa de Campo (14)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-zone-7231">
+ <input type="checkbox" name="zone[]" id="edit-zone-7231" value="7231"  /> <label class='option' for='edit-zone-7231'>Castellana (31)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-zone-7244">
+ <input type="checkbox" name="zone[]" id="edit-zone-7244" value="7244"  /> <label class='option' for='edit-zone-7244'>Cerca de Madrid (26)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-zone-7232">
+ <input type="checkbox" name="zone[]" id="edit-zone-7232" value="7232"  /> <label class='option' for='edit-zone-7232'>Chamberí (65)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-zone-7233">
+ <input type="checkbox" name="zone[]" id="edit-zone-7233" value="7233"  /> <label class='option' for='edit-zone-7233'>Chueca (24)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-zone-7234">
+ <input type="checkbox" name="zone[]" id="edit-zone-7234" value="7234"  /> <label class='option' for='edit-zone-7234'>Conde Duque (16)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-zone-7235">
+ <input type="checkbox" name="zone[]" id="edit-zone-7235" value="7235"  /> <label class='option' for='edit-zone-7235'>La Latina (34)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-zone-7236">
+ <input type="checkbox" name="zone[]" id="edit-zone-7236" value="7236"  /> <label class='option' for='edit-zone-7236'>Lavapiés (47)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-zone-7237">
+ <input type="checkbox" name="zone[]" id="edit-zone-7237" value="7237"  /> <label class='option' for='edit-zone-7237'>Madrid Río (41)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-zone-7238">
+ <input type="checkbox" name="zone[]" id="edit-zone-7238" value="7238"  /> <label class='option' for='edit-zone-7238'>Malasaña (30)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-zone-7225">
+ <input type="checkbox" name="zone[]" id="edit-zone-7225" value="7225"  /> <label class='option' for='edit-zone-7225'>Otros (107)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-zone-7239">
+ <input type="checkbox" name="zone[]" id="edit-zone-7239" value="7239"  /> <label class='option' for='edit-zone-7239'>Paseo del Arte (52)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-zone-7240">
+ <input type="checkbox" name="zone[]" id="edit-zone-7240" value="7240"  /> <label class='option' for='edit-zone-7240'>Princesa (27)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-zone-7241">
+ <input type="checkbox" name="zone[]" id="edit-zone-7241" value="7241"  /> <label class='option' for='edit-zone-7241'>Retiro (23)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-zone-7242">
+ <input type="checkbox" name="zone[]" id="edit-zone-7242" value="7242"  /> <label class='option' for='edit-zone-7242'>Salesas (25)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-zone-7243">
+ <input type="checkbox" name="zone[]" id="edit-zone-7243" value="7243"  /> <label class='option' for='edit-zone-7243'>Sol / Gran Vía (64)</label>
+</div>
+</div></div></div></fieldset>
+
+</div>
+        </div>
+              </div>
+          <div id="edit-type-wrapper" class="views-exposed-widget views-widget-filter-field_tourist_info_type">
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-type">
+ <fieldset class="bef-select-as-checkboxes-fieldset collapsible collapsed form-wrapper"><legend><span class="fieldset-legend">Type</span></legend><div class="fieldset-wrapper"><div class="form-checkboxes bef-select-as-checkboxes"><div class="bef-checkboxes"><div class="form-item form-type-bef-checkbox form-item-edit-type-7173">
+ <input type="checkbox" name="type[]" id="edit-type-7173" value="7173"  /> <label class='option' for='edit-type-7173'>Sights and monuments (270)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-7169">
+ <input type="checkbox" name="type[]" id="edit-type-7169" value="7169"  /> <label class='option' for='edit-type-7169'>Tourist guide companies (23)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-7168">
+ <input type="checkbox" name="type[]" id="edit-type-7168" value="7168"  /> <label class='option' for='edit-type-7168'>Cookery schools and oil and wine tastings (8)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-7483">
+ <input type="checkbox" name="type[]" id="edit-type-7483" value="7483"  /> <label class='option' for='edit-type-7483'>Espacios para eventos (10)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-7172">
+ <input type="checkbox" name="type[]" id="edit-type-7172" value="7172"  /> <label class='option' for='edit-type-7172'>Cultural venues</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-7181">
+ <input type="checkbox" name="type[]" id="edit-type-7181" value="7181"  /> <label class='option' for='edit-type-7181'>-Cultural centres, exhibition halls, foundations (126)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-7471">
+ <input type="checkbox" name="type[]" id="edit-type-7471" value="7471"  /> <label class='option' for='edit-type-7471'>-Cinemas (6)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-7182">
+ <input type="checkbox" name="type[]" id="edit-type-7182" value="7182"  /> <label class='option' for='edit-type-7182'>-Art galleries (84)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-7481">
+ <input type="checkbox" name="type[]" id="edit-type-7481" value="7481"  /> <label class='option' for='edit-type-7481'>-Multiespacio (7)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-7179">
+ <input type="checkbox" name="type[]" id="edit-type-7179" value="7179"  /> <label class='option' for='edit-type-7179'>-Museums (63)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-7183">
+ <input type="checkbox" name="type[]" id="edit-type-7183" value="7183"  /> <label class='option' for='edit-type-7183'>-Concert halls (28)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-7180">
+ <input type="checkbox" name="type[]" id="edit-type-7180" value="7180"  /> <label class='option' for='edit-type-7180'>-Theatres (96)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-7166">
+ <input type="checkbox" name="type[]" id="edit-type-7166" value="7166"  /> <label class='option' for='edit-type-7166'>Sports facilities (12)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-7170">
+ <input type="checkbox" name="type[]" id="edit-type-7170" value="7170"  /> <label class='option' for='edit-type-7170'>Other</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-7482">
+ <input type="checkbox" name="type[]" id="edit-type-7482" value="7482"  /> <label class='option' for='edit-type-7482'>-Coworking (7)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-7484">
+ <input type="checkbox" name="type[]" id="edit-type-7484" value="7484"  /> <label class='option' for='edit-type-7484'>-Picos y montes (6)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-7171">
+ <input type="checkbox" name="type[]" id="edit-type-7171" value="7171"  /> <label class='option' for='edit-type-7171'>Amusement parks and attractions (25)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-7174">
+ <input type="checkbox" name="type[]" id="edit-type-7174" value="7174"  /> <label class='option' for='edit-type-7174'>Parks and gardens (49)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-7175">
+ <input type="checkbox" name="type[]" id="edit-type-7175" value="7175"  /> <label class='option' for='edit-type-7175'>Services</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-7184">
+ <input type="checkbox" name="type[]" id="edit-type-7184" value="7184"  /> <label class='option' for='edit-type-7184'>-Tourist information points. Tourist offices (10)</label>
+</div>
+<div class="form-item form-type-bef-checkbox form-item-edit-type-7185">
+ <input type="checkbox" name="type[]" id="edit-type-7185" value="7185"  /> <label class='option' for='edit-type-7185'>-Transport (6)</label>
+</div>
+</div></div></div></fieldset>
+
+</div>
+        </div>
+              </div>
+          <div id="edit-sort-bef-combine-wrapper" class="views-exposed-widget views-widget-sort-sort_bef_combine">
+                        <div class="views-widget">
+          <div style="display: none;"><div class="form-item form-type-select form-item-sort-bef-combine">
+  <label for="edit-sort-bef-combine">Order by </label>
+ <select id="edit-sort-bef-combine" name="sort_bef_combine" class="form-select"><option value="search_api_relevance ASC">Relevance Asc</option><option value="search_api_relevance DESC" selected="selected">Relevance Desc</option><option value="field_title ASC">Nombre Asc</option><option value="field_title DESC">Nombre Desc</option></select>
+</div>
+</div>        </div>
+              </div>
+                  <div class="views-exposed-widget views-widget-per-page">
+        <div style="display: none;"><div class="form-item form-type-select form-item-items-per-page">
+  <label for="edit-items-per-page">Elementos por página </label>
+ <select id="edit-items-per-page" name="items_per_page" class="form-select"><option value="10">10</option><option value="20" selected="selected">20</option><option value="30">30</option></select>
+</div>
+</div>      </div>
+            <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-buscador-recursos-info-turistica" name="" value="Search" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>  </div>
+</div>
+</div></div></div></div>
+
+ <div  style="" about="/en/gadget/11923" typeof="" class="ds-1col gadget entity-gadget gadget-contenido gadget-contenido-listado-simple view-mode-listado_simple clearfix">
+
+  
+  <h2 class="field field-name-field-titulo field-type-text field-label-hidden"><div class="field-item odd first last">HOW LONG ARE YOU STAYING?</div></h2><div class="field field-name-field-entidades field-type-entityreference field-label-hidden"><div class="field-items"><div class="field-item odd"><div  about="/en/24-hours-madrid" typeof="sioc:Item foaf:Document" class="ds-1col node node-cover view-mode-listado_simple clearfix">
+
+  
+  <div class="field field-name-title-field field-type-text field-label-hidden"><div class="field-items"><div class="field-item odd" property=""><a href="/en/24-hours-madrid" class="active">24 hours in Madrid</a></div></div></div></div>
+
+</div><div class="field-item even"><div  about="/en/48-hours-madrid" typeof="sioc:Item foaf:Document" class="ds-1col node node-cover view-mode-listado_simple clearfix">
+
+  
+  <div class="field field-name-title-field field-type-text field-label-hidden"><div class="field-items"><div class="field-item odd" property=""><a href="/en/48-hours-madrid">48 Hours in Madrid</a></div></div></div></div>
+
+</div><div class="field-item odd"><div  about="/en/week-madrid" typeof="sioc:Item foaf:Document" class="ds-1col node node-cover view-mode-listado_simple clearfix">
+
+  
+  <div class="field field-name-title-field field-type-text field-label-hidden"><div class="field-items"><div class="field-item odd" property=""><a href="/en/week-madrid">A Week in Madrid</a></div></div></div></div>
+
+</div><div class="field-item even"><div  about="/en/monday-madrid" typeof="sioc:Item foaf:Document" class="ds-1col node node-cover view-mode-listado_simple clearfix">
+
+  
+  <div class="field field-name-title-field field-type-text field-label-hidden"><div class="field-items"><div class="field-item odd" property=""><a href="/en/monday-madrid">A Monday in Madrid</a></div></div></div></div>
+
+</div></div></div></div>
+
+ <div  style="" about="/en/gadget/1266" typeof="" class="ds-1col gadget entity-gadget gadget-publicidad gadget-publicidad-full view-mode-full clearfix">
+
+  
+  <div class="field field-name-field-bloque-gadget field-type-blockreference field-label-hidden"><div class="field-items"><div class="field-item odd"><div id="block-dfp-roba2" class="block block-dfp">
+
+    
+  <div class="content">
+    <div id="dfp-ad-roba2-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-roba2" class="dfp-tag-wrapper">
+  <div class="slug">Advertisement</div>  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-roba2");
+    });
+  </script>
+</div>
+</div>  </div>
+</div>
+</div></div></div></div>
+
+ <div  style="" about="/en/gadget/12310" typeof="" class="ds-1col gadget entity-gadget gadget-contenido gadget-contenido-slider view-mode-slider clearfix">
+
+  
+  <div  id="flexslider-2" class="flexslider">
+  <ul class="slides"><li><div  about="/en/maps-and-essential-guides" typeof="sioc:Item foaf:Document" class="ds-1col node node-cover view-mode-teaser_gadget_full clearfix">
+
+  
+  <div class="field-group-link-format group_link_wrappergroup-link-wrapper field-group-link"><a href="/en/maps-and-essential-guides" ><div class="field field-name-field-images field-type-file field-label-hidden"><div class="field-items"><div class="field-item odd"><div id="file-117611--2" class="file file-image file-image-jpeg">
+
+        <!-- <h2><a href=""></a></h2> -->
+    <!-- <h2 class="element-invisible">mapablocturistico_enero2016.jpg</h2>-->
+    
+  
+  <div class="content">
+    <img typeof="foaf:Image" src="https://www.esmadrid.com/sites/default/files/styles/content_type_full/public/documentos/mapablocturistico_enero2016.jpg?itok=PzHPQPEj" width="660" height="335" alt="Mapa turístico de Madrid enero 2016" title="Mapa turístico de Madrid enero 2016" />  </div>
+
+  
+</div>
+</div></div></div></a></div><h2 class="field field-name-title-field field-type-text field-label-hidden"><div class="field-item odd first last" property=""><a href="/en/maps-and-essential-guides">Maps and Essential Guides of Madrid</a></div></h2><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item odd" property="content:encoded"><p>Check out and download everything you to need to feel right at home in our city.</p>
+</div></div></div></div>
+
+<div class="flex-caption">Maps and Essential Guides of Madrid</div></li>
+</ul><ul class="flexslider-entityreference-thumbs thumbs-slider-thumbnail" id="flexslider-2-thumbs"><li><div  about="/en/maps-and-essential-guides" typeof="sioc:Item foaf:Document" class="ds-1col node node-cover view-mode-slider_thumbnail clearfix">
+
+  
+  <div class="field field-name-field-images field-type-file field-label-hidden"><div class="field-items"><div class="field-item odd"><div id="file-117611--3" class="file file-image file-image-jpeg">
+
+        <!-- <h2><a href=""></a></h2> -->
+    <!-- <h2 class="element-invisible">mapablocturistico_enero2016.jpg</h2>-->
+    
+  
+  <div class="content">
+    <img typeof="foaf:Image" src="https://www.esmadrid.com/sites/default/files/styles/content_type_full/public/documentos/mapablocturistico_enero2016.jpg?itok=PzHPQPEj" width="660" height="335" alt="Mapa turístico de Madrid enero 2016" title="Mapa turístico de Madrid enero 2016" />  </div>
+
+  
+</div>
+</div></div></div></div>
+
+</li></ul></div>
+</div>
+
+ <div  style="" about="/en/gadget/1266" typeof="" class="ds-1col gadget entity-gadget gadget-publicidad gadget-publicidad-full view-mode-full clearfix">
+
+  
+  <div class="field field-name-field-bloque-gadget field-type-blockreference field-label-hidden"><div class="field-items"><div class="field-item odd"><div id="block-dfp-roba2--2" class="block block-dfp">
+
+    
+  <div class="content">
+    <div id="dfp-ad-roba2-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-roba2" class="dfp-tag-wrapper">
+  <div class="slug">Advertisement</div>  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-roba2");
+    });
+  </script>
+</div>
+</div>  </div>
+</div>
+</div></div></div></div>
+
+ <div  style="" about="/en/gadget/4940" typeof="" class="ds-1col gadget entity-gadget gadget-items gadget-items-grid-2col view-mode-grid_2col clearfix">
+
+  
+  <h2 class="field field-name-field-titulo field-type-text field-label-hidden"><div class="field-item odd first last">OFFICIAL PRODUCTS</div></h2><div class="field-collection-container clearfix"><div class="field field-name-field-items field-type-field-collection field-label-hidden"><div class="field-items"><div class="field-item odd"><div class="field-collection-view clearfix view-mode-teaser-gadget"><div  about="/en/field-collection/field-items/4636" typeof="" class="ds-1col entity entity-field-collection-item field-collection-item-field-items view-mode-teaser_gadget clearfix">
+
+  
+  <div class="field-group-link-format group_link_wrappergroup-link-wrapper field-group-link"><a href="https://www.esmadrid.com/en/tourist-information/faro-de-moncloa"target="_blank" ><div class="field field-name-field-box-media field-type-file field-label-hidden"><div class="field-items"><div class="field-item odd"><div id="file-118991" class="file file-image file-image-jpeg">
+
+        <!-- <h2><a href=""></a></h2> -->
+    <!-- <h2 class="element-invisible">farodemoncloalogo.jpg</h2>-->
+    
+  
+  <div class="content">
+    <img typeof="foaf:Image" src="https://www.esmadrid.com/sites/default/files/styles/teaser_gadget/public/home_0/farodemoncloalogo.jpg?itok=5HKhMI22" width="323" height="163" alt="Logotipo Faro de Moncloa" title="Logotipo Faro de Moncloa" />  </div>
+
+  
+</div>
+</div></div></div></a></div><div class="field-group-link-format group_link_wrapper_titlegroup-link-wrapper-title field-group-link"><a href="https://www.esmadrid.com/en/tourist-information/faro-de-moncloa"target="_blank" ><h3 class="field field-name-field-box-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item odd first last">Panoramic views</div></div></h3></a></div><div class="field field-name-field-box-description field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item odd"><p>Make your way up to the observation deck for stunning views of the city.</p>
+</div></div></div></div>
+
+</div></div><div class="field-item even"><div class="field-collection-view clearfix view-mode-teaser-gadget"><div  about="/en/field-collection/field-items/4637" typeof="" class="ds-1col entity entity-field-collection-item field-collection-item-field-items view-mode-teaser_gadget clearfix">
+
+  
+  <div class="field-group-link-format group_link_wrappergroup-link-wrapper field-group-link"><a href="http://www.esmadrid.com/en/madrid-city-tour-en"target="_blank" ><div class="field field-name-field-box-media field-type-file field-label-hidden"><div class="field-items"><div class="field-item odd"><div id="file-13618" class="file file-image file-image-png">
+
+        <!-- <h2><a href=""></a></h2> -->
+    <!-- <h2 class="element-invisible">171.png</h2>-->
+    
+  
+  <div class="content">
+    <img typeof="foaf:Image" src="https://www.esmadrid.com/sites/default/files/styles/teaser_gadget/public/especiales/171_1.png?itok=dtVtoVpq" width="323" height="163" alt="" />  </div>
+
+  
+</div>
+</div></div></div></a></div><div class="field-group-link-format group_link_wrapper_titlegroup-link-wrapper-title field-group-link"><a href="http://www.esmadrid.com/en/madrid-city-tour-en"target="_blank" ><h3 class="field field-name-field-box-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item odd first last">Tourist Bus</div></div></h3></a></div><div class="field field-name-field-box-description field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item odd"><p>Climb on board and discover the city in a panoramic format.</p>
+</div></div></div></div>
+
+</div></div><div class="field-item odd"><div class="field-collection-view clearfix view-mode-teaser-gadget field-collection-view-final"><div  about="/en/field-collection/field-items/10476" typeof="" class="ds-1col entity entity-field-collection-item field-collection-item-field-items view-mode-teaser_gadget clearfix">
+
+  
+  <div class="field-group-link-format group_link_wrappergroup-link-wrapper field-group-link"><a href="https://www.vuelveamadrid.com/en/?utm_source=esmadrid&utm_medium=productos-oficiales-int&utm_campaign=Julio2018EN"target="_blank" ><div class="field field-name-field-box-media field-type-file field-label-hidden"><div class="field-items"><div class="field-item odd"><div id="file-157443" class="file file-image file-image-jpeg">
+
+        <!-- <h2><a href=""></a></h2> -->
+    <!-- <h2 class="element-invisible">es_madrid_prod_oficiales_interior_helado_baja.jpg</h2>-->
+    
+  
+  <div class="content">
+    <img typeof="foaf:Image" src="https://www.esmadrid.com/sites/default/files/styles/teaser_gadget/public/widgets/items/images/es_madrid_prod_oficiales_interior_helado_baja.jpg?itok=jLmgpqcw" width="323" height="163" alt="Vuelve a Madrid" title="Vuelve a Madrid" />  </div>
+
+  
+</div>
+</div></div></div></a></div><div class="field-group-link-format group_link_wrapper_titlegroup-link-wrapper-title field-group-link"><a href="https://www.vuelveamadrid.com/en/?utm_source=esmadrid&utm_medium=productos-oficiales-int&utm_campaign=Julio2018EN"target="_blank" ><h3 class="field field-name-field-box-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item odd first last">Vuelve a Madrid</div></div></h3></a></div><div class="field field-name-field-box-description field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item odd"><p>There are all kinds of things to do in Madrid, but some of them are not to be missed! Find out more!</p>
+</div></div></div></div>
+
+</div></div></div></div></div></div>
+
+</div>
+<div class="ds-limpiar"></div></div><div class="ds-limpiar"></div></div></div>
+</div>
+    </div>
+  
+  <div class="group-footer">
+      </div>
+
+</div>
+
+  </div>
+</div>
+  </div>
+          </div>
+                    
+      </div></div></div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
+
+    </div> <!-- /#container -->
+
+      <div id="footer">  <div class="region region-footer">
+    <div id="block-menu-block-2" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-2 menu-name-menu-main-menu-en parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first expanded menu-mlid-3959"><a href="/en/discover-madrid" title="Discover Madrid">Discover Madrid</a><ul class="menu"><li class="first leaf menu-mlid-3963"><a href="/en/madrid-at-a-glance" title="At a glance">At a glance</a></li>
+<li class="leaf menu-mlid-3964"><a href="/en/madrid-neighbourhoods" title="Neighbourhoods">Neighbourhoods</a></li>
+<li class="last leaf menu-mlid-3965"><a href="/en/choose-your-madrid" title="Choose your Madrid">Choose your Madrid</a></li>
+</ul></li>
+<li class="expanded menu-mlid-3960"><a href="/en/things-to-do-in-madrid" title="Things to do">Things to do</a><ul class="menu"><li class="first leaf menu-mlid-3966"><a href="/en/madrid-art-and-culture" title="Art and culture">Art and culture</a></li>
+<li class="leaf menu-mlid-12243"><a href="https://www.esmadrid.com/en/madrid-for-kids">Madrid for kids</a></li>
+<li class="leaf menu-mlid-3967"><a href="/en/madrid-food-and-drink" title="Food and drink">Food and drink</a></li>
+<li class="leaf menu-mlid-3968"><a href="/en/shopping-madrid" title="Shopping">Shopping</a></li>
+<li class="leaf menu-mlid-3969"><a href="/en/madrid-nightlife" title="Nightlife">Nightlife</a></li>
+<li class="leaf menu-mlid-3970"><a href="/en/flamenco-madrid-en" title="Flamenco">Flamenco</a></li>
+<li class="leaf menu-mlid-3972"><a href="/en/sport-in-madrid" title="Sport">Sport</a></li>
+<li class="leaf menu-mlid-3973"><a href="/en/parks-gardens-madrid" title="Parks and gardens">Parks and gardens</a></li>
+<li class="leaf menu-mlid-3974"><a href="/en/amusement-parks-and-zoos" title="Amusement parks and zoos">Amusement parks and zoos</a></li>
+<li class="last leaf menu-mlid-3975"><a href="/en/itineraries-and-day-trips-madrid" title="Itineraries and day trips">Day trips and itineraries</a></li>
+</ul></li>
+<li class="expanded menu-mlid-3961"><a href="/en/whats-on-madrid" title="What&#039;s on">What&#039;s on</a><ul class="menu"><li class="first leaf menu-mlid-11282"><a href="/en/whats-on-exhibitions-madrid">Exhibitions</a></li>
+<li class="leaf menu-mlid-11287"><a href="/en/whats-on-theatre-and-dance-madrid">Theatre and dance</a></li>
+<li class="leaf menu-mlid-11288"><a href="/en/whats-on-music-madrid">Music</a></li>
+<li class="leaf menu-mlid-11289"><a href="/en/whats-on-sport-madrid">Sports</a></li>
+<li class="leaf menu-mlid-11292"><a href="/en/whats-on-events-madrid">Special events</a></li>
+<li class="leaf menu-mlid-11290"><a href="/en/whats-on-congresses-and-trade-shows-madrid">Conferences and trade shows</a></li>
+<li class="last leaf menu-mlid-12240"><a href="https://www.esmadrid.com/en/events-calendar">2018 Events Calendar</a></li>
+</ul></li>
+<li class="last expanded menu-mlid-3962"><a href="/en/plan-your-trip-madrid" title="Plan your trip">Plan your trip</a><ul class="menu"><li class="first leaf menu-mlid-3984"><a href="/en/where-to-stay" title="Where to stay">Where to stay</a></li>
+<li class="leaf menu-mlid-3985"><a href="/en/getting-to-madrid" title="Getting here">Getting here</a></li>
+<li class="leaf menu-mlid-3986"><a href="/en/getting-around-madrid" title="Getting around">Getting around</a></li>
+<li class="leaf menu-mlid-3987"><a href="/en/essential-information-madrid" title="Essential information">Essential information</a></li>
+<li class="leaf menu-mlid-3988"><a href="/en/accessible-madrid" title="Accessibility">Accessibility</a></li>
+<li class="leaf menu-mlid-3989"><a href="/en/tourist-information-centres" title="Tourist information centres">Tourist information centres</a></li>
+<li class="leaf menu-mlid-3990"><a href="/en/maps-and-essential-guides" title="Maps and guides">Maps and guides</a></li>
+<li class="leaf menu-mlid-3992"><a href="/en/learning-spanish" title="Learning Spanish">Learning Spanish</a></li>
+<li class="leaf menu-mlid-3993"><a href="/en/other-cultures" title="Other cultures">Other cultures</a></li>
+<li class="last leaf menu-mlid-12697"><a href="https://blog.esmadrid.com/blog/en/" target="_blank">Bloggin&#039; Madrid</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+</div>
+
+            <div id="copyright">
+        <div class="logo-copy feder">  <div class="region region-feder">
+    <div id="block-footer-customized-footer-feder" class="block block-footer-customized">
+
+    
+  <div class="content">
+    <a href="http://ec.europa.eu/regional_policy/en/" target="_blank">Feder</a>  </div>
+</div>
+  </div>
+</div>
+        <div class="menu-copy">  <div class="region region-copy">
+    <div id="block-menu-menu-menu-subfooter-en" class="block block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/en/contact">Contact</a></li>
+<li class="leaf"><a href="http://www.esmadrid.com/en/general-user-conditions/">General Conditions</a></li>
+<li class="leaf"><a href="http://www.esmadrid.com/en/privacy-policy">Legal Terms and Conditions</a></li>
+<li class="leaf"><a href="http://www.esmadrid.com/en/cookies-policy">Cookies policy</a></li>
+<li class="last leaf"><a href="http://www.madrid.es" target="_blank">madrid.es</a></li>
+</ul>  </div>
+</div>
+  </div>
+</div>        
+        <div class="logo-copy destino"><a href="http://www.madrid-destino.com/es/" target="_blank">Madrid Destino</a></div>
+      </div>
+            <div class="region region-footer-advertisement">
+    <div id="block-dfp-layer" class="block block-dfp">
+
+    <h2>DFP tag: LAYER</h2>
+  
+  <div class="content">
+    <div id="dfp-ad-layer-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-layer" class="dfp-tag-wrapper">
+  <div class="slug">Advertisement</div>  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-layer");
+    });
+  </script>
+</div>
+</div>  </div>
+</div>
+  </div>
+  </div> <!-- /#wrapper -->  <div id="fb-root"></div><script type="text/javascript">
+     window.fbAsyncInit = function() {
+       FB.init({
+         appId: "1400410763505596",
+         status: true,
+         cookie: true,
+         xfbml: true,
+         oauth : true,
+         channelUrl: "https:\/\/www.esmadrid.com\/fb_social\/channel"
+         });
+
+         
+     };
+     (function() {
+       var e = document.createElement('script');
+       e.async = true;
+       e.src = document.location.protocol + '//connect.facebook.net/es_ES/all.js';
+       document.getElementById('fb-root').appendChild(e);
+     }());
+  </script><script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.js?pcqe9i"></script>
+<script type="text/javascript" src="https://www.esmadrid.com/profiles/clusters_public/modules/contrib/flexslider/assets/js/flexslider.load.js?pcqe9i"></script>
+  </body>
+</html>
+
+<!-- Page cached by Boost @ 2018-07-31 14:55:26, expires @ 2018-07-31 15:55:26, lifetime 1 hour -->
